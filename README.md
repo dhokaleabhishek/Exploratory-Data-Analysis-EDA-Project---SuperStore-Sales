@@ -13,7 +13,7 @@ to sales performance, customer behavior, and shipping efficiency. The key goals 
 <br>
 • Deriving business insights to improve profitability and operational strategies
 <br>
-
+<br><br><br>
 Dataset Description
 <br>
 The dataset comprises various attributes related to sales, orders, customers, and shipping, 
@@ -26,7 +26,7 @@ including:
 • Product Details: Product ID, Category, Sub-Category, Product Name, Quantity
 <br>
 • Sales Data: Sales, Discount, Profit
-<br><br>
+<br><br><br><br>
 ❖ Tools and Libraries Used
 <br>
 The analysis is conducted using the following tools:
